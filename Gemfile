@@ -3,8 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.22'
 
 
-# gem 'rails', :git => 'git://github.com/rails/rails.git'
-
+# gem 'rails',
 gem 'sqlite3'
 
 
